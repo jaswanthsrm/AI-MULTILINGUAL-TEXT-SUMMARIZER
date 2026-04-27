@@ -1,0 +1,12 @@
+transformers
+torch
+sentencepiece
+pytesseract
+opencv-python
+Pillow
+PyMuPDF
+langdetect
+googletrans==4.0.0-rc1
+streamlit
+reportlab
+legacy-cgi
